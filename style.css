@@ -1,35 +1,4 @@
-/* =======================================================
-   PORTFOLIO STYLESHEET
-   -------------------------------------------------------
-   This single file styles every page (index, about,
-   projects, skills, contact). It's organized top to bottom
-   in the order things usually appear on a page:
 
-   1. Fonts + CSS Variables (the "design tokens")
-   2. Reset / base styles
-   3. Layout helpers
-   4. Navbar
-   5. Buttons
-   6. Hero (home page)
-   7. Section headings ("eyebrows")
-   8. About page
-   9. Projects page
-   10. Skills page
-   11. Contact page
-   12. Footer
-   13. Back-to-top button
-   14. Scroll reveal animation
-   15. Responsive breakpoints (tablet + mobile)
-   ======================================================= */
-
-/* -------------------------------------------------------
-   1. FONTS + VARIABLES
-   -------------------------------------------------------
-   We use Google Fonts:
-   - "Space Grotesk"  -> headings (has a techy, geometric feel)
-   - "Inter"          -> body text (very readable)
-   - "JetBrains Mono" -> labels, tags, code-style accents
-   ------------------------------------------------------- */
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
 
 :root {
